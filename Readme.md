@@ -1,6 +1,7 @@
-SUPERUSER
+# Website : http://eliteakshay.pythonanywhere.com/
 
-username : elite
+# SUPERUSER
+## Username : elite
+## Password : Elite1234
 
-password : Elite1234
 
